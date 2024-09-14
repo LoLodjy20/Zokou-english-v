@@ -1,5 +1,5 @@
 {
-  "name": "Zokou-2.0",
+  "name": "♕𝙇𝙊𝙇𝙊𝘿𝙅𝙔☘𓆤𐂊︎",
   "description": "bot whatsapp développé par djalega++",
   "keywords": [
     "bot",
@@ -14,7 +14,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": "#",
+      "value": ".",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "KRÈK-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -61,14 +61,14 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "",
       "required": false,
-      "value": "Djalega++"
+      "value": "♕𝙇𝙊𝙇𝙊𝘿𝙅𝙔☘𓆤𐂊︎"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "50932539509"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
